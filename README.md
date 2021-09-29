@@ -1,4 +1,4 @@
-This is where cc_api will be refactored
+This is the jumping off point for personal API
 
 For windows: Make sure server.py has CRLF removed
 
